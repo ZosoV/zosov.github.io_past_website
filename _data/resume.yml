@@ -1,0 +1,276 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Oscar Guarnizo"
+  label: "Information Technology & Junior Research Fellow"
+  picture: "https://placehold.it/240x240"
+  email: "oscar.guarnizo9619@gmail.com"
+  phone: "(593) 99 870 258"
+  website: "https://zosov.github.io/"
+  summary: >
+        I am a computer scientist with four years of research experience since my undergraduate 
+        program. I am a dynamic and ambitious person with a great passion for mathematics, computer 
+        science, and machine learning. Currently, I hold a Junior Fellow Research position in 
+        DeepARC and Scientific Computing Group, where I am working on promising machine 
+        learning projects. My current focus is Reinforcement Learning because I consider it the 
+        most natural, formal, and robust way to define artificial intelligence. Recently I was in 
+        an internship position at KAUST, where I improved my analytical, programming, and research 
+        skills in the companion of masters and doctoral students. Additionally, this year, I was 
+        part of various workshops and summer schools, which reinforced my basic knowledge and 
+        improved my interpersonal skills. Regarding my professional life, in the last year, 
+        I held the position of Machine Learning Engineer at DIGEVO company in Santiago, Chile.
+  location:
+    address: "Isla Marchena & Isla Isabela"
+    postalCode: "050102"
+    city: "Lacunga"
+    countryCode: "ECU"
+    region: "Cotopaxi"
+  profiles:
+    - network: "GitHub"
+      username: "ZosoV"
+      url: "https://github.com/ZosoV"
+    - network: "LinkedIn"
+      username: "Oscar Guarnizo"
+      url: "https://www.linkedin.com/in/oscar-guarnizo/"
+education:
+  - institution: "Yachay Tech University"
+    area: "Information Technology"
+    studyType: "B.Sc"
+    startDate: "2015-04-01"
+    endDate: "2020-03-01"
+    gpa: "9.3/10 or 3.6/4.0"
+    courses:
+      - "Received formal education in Mathematics and Machine Learning."
+      - "Obtained an IFTH Scholarship, given to promising students for 
+         higher education studies, covering all undergraduate expenses from 2015-2020."
+      - "Thesis: Path Planning Simulation in Controlled Environments using 
+         Ant Colony Optimization Algorithms."
+work:
+  - company: "DeepARC"
+    position: "Co-Founder & Junior Research Fellow"
+    website: "https://www.deeparcresearch.com/"
+    startDate: "2021-06-01"
+    endDate: ""
+    summary: >
+      DeepARC is a research group focused on fundamental and applied research on 
+      deep learning for autonomous driving, robotics, and computer vision.
+    highlights:
+      - "Lead the Reinforcement Learning and Robotics research line."
+      - "Collaborated with the research entitled <em>Deep Learning and Computer Vision 
+        in Smart Agriculture: Datasets, Models, and Applications</em>."
+      - "Collaborated with a research entitled <em>Intelligent System for 
+        Monitoring, Classifying, and Counting explorer and mondial Roses</em>."
+  - company: "Scientific Computing Group (SCG)"
+    position: "Junior Research Fellow & Coordinator"
+    website: "https://www.yachay-scg.com/"
+    startDate: "2020-03-01"
+    endDate: ""
+    summary: >
+      SCG is a research group, which aims to create elegant and efficient 
+      simulation engines for different phenomena, to create optimization models, 
+      and to computationally recreate collective intelligence.
+    highlights:
+      - "Coordinated and maintained the website, social networks, and computer resources."
+      - "Held a Program Committee Member position for the organization of the <em>Yachay 
+        Scientific Computing Summer School 2021</em>."
+      - "Researched a project entitled <em>Initializing Ant Colony Optimization with Random Walks</em>."
+      - "Led a project entitled <em>Learning to Generate Complex Physics Using a 
+        Generative Adversarial Neural Network</em>."
+  - company: "Scientific Computing Group (SCG)"
+    position: "Undergraduate Research Fellow"
+    website: "https://www.yachay-scg.com/"
+    startDate: "2019-02-01"
+    endDate: "2020-03-01"
+    summary: >
+
+    highlights:
+      - "Conducted a project entitled <em>Path Planning Simulation in Controlled 
+         Environments using the Ant Colony Optimization Algorithm</em>"
+      - "Submitted weekly reports, performed regular presentations, and attended 
+         regular individual and group meetings of the SCG research group."
+  - company: "King Abdullah University of Science and Technology (KAUST)"
+    position: "Research Intern"
+    website: "https://cemse.kaust.edu.sa/org/p-wonka"
+    startDate: "2019-02-01"
+    endDate: "2020-03-01"
+    summary: >
+        Peter Wonka Research Group at KAUST aims to address research 
+        in computer graphics, visualization, and remote sensing with 
+        a focus on modeling and analysis of urban and geospatial data.
+    highlights:
+      - "Implemented <em>Image2StyleGAN</em> to embed images into the StyleGAN 
+        latent space, programmed in PyTorch."
+      - "Implemented subsequent image processing tasks, such as morphing, style transfer, 
+        expression transfer, inpainting, and super‐resolution."
+      - "Participated in weekly group meetings and reviewed algebra, statistics, 
+        probability, styleGAN interpretation, and mathematical understanding of neural networks."
+  - company: "DIGEVO"
+    position: "Machine Learning Engineer"
+    website: "https://digevo.com/en/"
+    startDate: "2020-11-01"
+    endDate: "2021-03-01"
+    summary: >
+        DIGEVO & Omia AI Group are focused to solve different industries issues and optimize 
+        your results through artificial intelligence.
+    highlights:
+      - Researched promising methods for Image Classification tasks using Tensor Decomposition. 
+        The activities involved paper reviews, writing articles, training, and deployment of neural 
+        networks programmed in TensorFlow.
+      - Designed and built an overall ETL (Extract‑Transform‑Load) service using Apache Airflow 
+        to process raw files (metadata flows gotten from Machine Learning models) 
+        with different formats into a database.
+      - Trained and deployed AI models based on neural networks for Computer Vision, using tools 
+        such as OpenCV, Tensorflow, NVIDIA Transfer Learning Toolkit, PyTorch, and Deepstream SDK.
+  - company: "DIGEVO"
+    position: "Machine Learning Intern"
+    website: "https://digevo.com/en/"
+    startDate: "2020-07-01"
+    endDate: "2020-10-01"
+    summary: >
+
+    highlights:
+      - Trained and deployed AI models based on neural networks for Computer Vision, using tools 
+        such as OpenCV, Tensorflow, NVIDIA Transfer Learning Toolkit, PyTorch, and Deepstream SDK.
+      - Built and deployed a computer vision environment, where the infrastructure was based on 
+        Docker container, AWS stacks (Including EC2 and IAM), and DeepStream SDK, focusing on 
+        including Tensorflow models for License Plate Recognition.
+  - company: "Yachay Tech University"
+    position: "Research Assistant &#x00B7 Survey Generator Project"
+    website: "https://www.yachaytech.edu.ec/en/msit/research/"
+    startDate: "2018-01-01"
+    endDate: "2018-05-01"
+    summary: >
+
+    highlights:
+      - Developed a computer system for automatic surveys generation, using common statistical 
+        methods, called <em>Survey Generator System</em> (SGD).
+      - Participated in a research group of four students (two nationals and two foreigners 
+        from the University of Montpellier) and the lead professor.
+      - Performed various activities, such as reviewing the literature, coding on diverse 
+        languages (such as R, JavaScript, and PHP), proposing statistical models, programming 
+        the web platform, discussing, and interpreting results.
+  - company: "Yachay Tech University"
+    position: "Research Assistant &#x00B7 Wu's Algorithm Project"
+    website: "https://www.yachaytech.edu.ec/en/msit/research/"
+    startDate: "2017-08-01"
+    endDate: "2018-05-01"
+    summary: >
+
+    highlights:
+      - Studied and implemented Wu’s Algorithm to obtain the Voronoi Diagram of Quadrics 
+        written on Haskell, a functional programming language.
+      - Participated in a research group conformed by three students and the lead professor, 
+        reviewing the literature, coding on Haskell, discussing, and interpreting results.
+volunteer:
+  - organization: "CoderDojo"
+    position: "Teacher"
+    website: "https://coderdojo.com/"
+    startDate: "2012-01-01"
+    endDate: "2013-01-01"
+    summary: "Global movement of free coding clubs for young people."
+    highlights:
+      - "Awarded 'Teacher of the Month'"
+awards:
+  - title: "Higher Education Scholarship"
+    date: "2020-03-10"
+    awarder: "Senescyt"
+    summary: "The scholarship covers all undergraduate expenses from 2015-2020, 
+              conferred by Instituto de Fomento del Talento Humano (IFTH) & SENESCYT"
+  - title: "Finalist"
+    date: "2019-11-10"
+    awarder: "TuApp 2019"
+    summary: "International Apps Tournament. Proposal: Computer Vision 
+              and Augmented Reality."
+  - title: "Finalist"
+    date: "2018-11-10"
+    awarder: "TuApp 2018"
+    summary: "International Apps Tournament. Proposal: E-commerce technology for services."
+publications:
+  - name: "Convolutional Neural Network Feature Extraction Using Covariance Tensor Decomposition"
+    publisher: "IEEE Access"
+    releaseDate: "2021-04-27"
+    website: "https://ieeexplore.ieee.org/document/9416639/"
+    summary: "This work describes a new method to extract image features using tensor decomposition 
+              to model data. Given a set of sample images, we extract patches from images, 
+              compute the covariance tensor for all patches, decompose with the Tucker model, 
+              and obtain the most critical features from a tensor core. "
+  - name: "Three Dimensional Adaptive Path Planning Simulation Based On Ant Colony Optimization 
+          Algorithm"
+    publisher: "IEEE.org"
+    releaseDate: "2019-11-11"
+    website: "https://ieeexplore.ieee.org/document/9037049"
+    summary: "The work aims to lay promising methods to deal with a fundamental path planning 
+            problem; overall, the project seeks to deal with the stuck condition. Stuck 
+            conditions are prevalent in this algorithm, averting the algorithm’s convergence, 
+            mainly when the environment presents many obstacles."
+  - name: "Successive Adaptive Linear Neural Modeling for Equidistant Real Roots Finding"
+    publisher: "IEEE.org"
+    releaseDate: "2018-10-15"
+    website: "https://ieeexplore.ieee.org/document/8580280"
+    summary: "The main objective of this work has been to implement a model to find equidistant 
+            real roots using a Successive Adaptive Linear Neural Modeling which uses two 
+            approaches: a Self Organized Map (SOM) and an Adaptative Linear Neuron (Adaline)."
+skills:
+  - name: "Programming"
+    level: "Intermediate"
+    keywords:
+      - "C"
+      - "Python"
+      - "PyTorch"
+      - "TensorFlow"
+  - name: "Software Tools"
+    level: "Intermediate"
+    keywords:
+      - "Docker"
+      - "Deepstream"
+      - "Transfer Learning Toolkit"
+      - "Git"
+  - name: "Data Analysis"
+    level: "Intermediate"
+    keywords:
+      - "Jupyter"
+      - "Pandas"
+      - "Matplotlib"
+languages:
+  - language: "Spanish"
+    fluency: "Native speaker"
+  - language: "English"
+    fluency: "Full professional proficiency"
+  - language: "Japanese"
+    fluency: "No proficiency"
+interests:
+  - name: "Investment"
+    keywords:
+      - "Stocks"
+      - "ETFs"
+      - "Crypto"
+  - name: "Learning Language"
+    keywords:
+      - "English"
+      - "Japanese"
+      - "French"
+  - name: "Learning Techniques"
+    keywords:
+      - "Vlogs"
+      - "Cornell Method"
+      - "Memorization"
+      - "Taking Notes"
+  - name: "Video Games"
+    keywords:
+      - "Strategy Games"
+      - "Dota 2"
+      - "LoL"
+references:
+  - name: "Israel Pineda"
+    reference: >
+      I am pleased to recommend Oscar, who have I worked with for over two years in different roles, 
+      so I feel qualified to describe his excellent performance and work.
+  - name: "Eugenio Morocho"
+    reference: >
+      It is a pleasure and a distinction to recommend Oscar, who is a 
+      person I have worked with who stands out uniquely among his peers. 
+  - name: "Frances Anton"
+    reference: >
+      I highly recommend Oscar for his outstanding performance as student in different CS courses, 
+      in his work as a Research Assistant, and his B. Sc. thesis.
