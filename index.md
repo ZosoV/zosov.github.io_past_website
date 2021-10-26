@@ -2,6 +2,7 @@
 layout: welcome
 title: Welcome! 👋
 sitemap: false
+cover: false
 ---
 <!--author-->
 

@@ -26,8 +26,6 @@ sitemap: false
 * J. Pereira, D. Suntaxi, **O. Guarnizo**, F Villalba, and D. Almeida. *Comparison between Two Novel Approaches in Automatic Breast Cancer Detection and Diagnosis and its Contribution in Military Defense*. The 2021 Multidisciplinary International Conference of Research Applied to Defense and Security. Cartagena, Colombia, 24 Aug 2021; pp. 10. (Peer-reviewed)
 * F. A. Castro, F. Zhapa, A. Ramos and **O. Guarnizo**. *Recent Developments in the Deneralization of Voronoi Diagrams and their Application to Homotopy Continuation.* The Sixth International Conference on Analytic Number Theory and Spatial Tessellations. Kyiv, Ukraine, 24-28 Sep 2018; pp. 6. (Peer-reviewed)
 
-## Thesis
-
 ## Undergraduate Thesis
 
 * Degree: B.Sc. in Information Technology
