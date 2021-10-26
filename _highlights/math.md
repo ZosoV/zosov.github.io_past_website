@@ -10,10 +10,7 @@ caption:     Mathematics, the fundamental science, allows us to understand the t
 description: >
     Mathematics, the fundamental science, allows us to understand the theoretical and practical implementations of any problem deeply.
 links:
-  - title:   Paper
-    url:     https://ieeexplore.ieee.org/document/9416639
-  - title:   Source
-    url:     https://gitlab.com/ricciclope/tensor
+
 featured:    false
 sitemap: false
 ---

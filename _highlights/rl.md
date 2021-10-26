@@ -10,8 +10,7 @@ caption:     Reinforcement learning (RL) is an area of machine learning concerne
 description: >
     Reinforcement learning (RL) is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward.
 links:
-  - title:   Game Jam
-    url:     https://encebolladogames.itch.io/ride-to-the-heaven?fbclid=IwAR3OTWOWFRPip-8abshU9oIXrqp6dThgPnr12gQ6ZCBBPp4AgxeNTjO3xWI
+
 featured:    false
 sitemap: false
 ---

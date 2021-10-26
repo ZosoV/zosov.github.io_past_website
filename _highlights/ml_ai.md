@@ -10,8 +10,7 @@ caption:     ML algorithms provide different solutions to current issues through
 description: >
     ML algorithms provide different solutions to current issues through its three approaches, Supervised learning, Unsupervised learning, and Reinforcement learning.
 links:
-  - title:   Game Jam
-    url:     https://encebolladogames.itch.io/ride-to-the-heaven?fbclid=IwAR3OTWOWFRPip-8abshU9oIXrqp6dThgPnr12gQ6ZCBBPp4AgxeNTjO3xWI
+
 featured:    false
 sitemap: false
 ---
