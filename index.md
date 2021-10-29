@@ -16,7 +16,7 @@ td, th, tr, thead, tbody {
 
 | <img src="/assets/welcome/ML.jpg" alt="drawing" width="250" style="border-radius:5%"> |<img src="/assets/welcome/math.png" alt="drawing" width="250" style="border-radius:5%"> | <img src="/assets/welcome/game.png" alt="drawing" width="250" style="border-radius:5%"> |
 |:---------------:|:---------------:|:---------------:|
-| Machine Learning | Mathematics | Games |
+| Machine Learning | Mathematics | Game AI |
 
 See [Highlights](highlights.md){:.heading.flip-title} for more
 {:.read-more}

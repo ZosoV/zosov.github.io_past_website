@@ -1,6 +1,6 @@
 ---
 layout:      project
-title:       Games Research
+title:       Game AI
 date:        January 2021
 image:
   path:       /assets/welcome/gam3.jpg
@@ -15,7 +15,7 @@ featured:    false
 sitemap: false
 ---
 
-# Games Research
+# Game AI
 
 ## Materials
 
