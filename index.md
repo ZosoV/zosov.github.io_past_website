@@ -6,8 +6,16 @@ cover: false
 ---
 <!--author-->
 
-# ✨ Highlights
+# 🚀 Portfolio
+A **portfolio** that grouped my recent research works about AI/ML.
+{:.note title="Summary"}
+<!--projects-->
+See [Research](research.md){:.heading.flip-title} for more
+{:.read-more}
 
+# ✨ Highlights
+Some **highlights** about my current research interests and learning in AI/ML.
+{:.note title="Summary"}
 <style>
 td, th, tr, thead, tbody {
    border: none!important;
@@ -21,9 +29,3 @@ td, th, tr, thead, tbody {
 See [Highlights](highlights.md){:.heading.flip-title} for more
 {:.read-more}
 
-# 🚀 Protfolio
-A **portfolio** that grouped some of my recent works about AI/ML.
-{:.note title="Summary"}
-<!--projects-->
-See [Research](research.md){:.heading.flip-title} for more
-{:.read-more}

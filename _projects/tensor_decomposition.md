@@ -16,3 +16,15 @@ links:
     url:     https://gitlab.com/ricciclope/tensor
 featured:    false
 ---
+# Convolutional Neural Network Feature Extraction Using Covariance Tensor Decomposition (Open Access)
+
+Tensor Decomposition, Feature extraction, Kernel, Convolutional Neural Networks, Matrix decomposition
+{:.note title="Keywords"}
+
+PUBLISHED
+{:.note title="Research Type"}
+
+## Resources
+
+* [Open Access Article](https://ieeexplore.ieee.org/document/9416639)
+* [Source Code](https://gitlab.com/ricciclope/tensor)

@@ -17,6 +17,10 @@ sitemap: false
 
 # Reinforcement Learning
 
-## Materials
+## Books
 
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html). Richard S. Sutton and Andrew G. Barto
+
+## Resources
+
+* Repository: [Reviewing Common RL Algorithms](https://github.com/ZosoV/rl_review) (In Progress)
