@@ -13,7 +13,7 @@ links:
   - title:   Paper
     url:     https://ieeexplore.ieee.org/document/9416639
   - title:   Source
-    url:     https://gitlab.com/ricciclope/tensor
+    url:     https://github.com/ZosoV/cnn_tensor_decomposition
 featured:    false
 ---
 # Convolutional Neural Network Feature Extraction Using Covariance Tensor Decomposition (Open Access)
@@ -27,4 +27,4 @@ PUBLISHED
 ## Resources
 
 * [Open Access Article](https://ieeexplore.ieee.org/document/9416639)
-* [Source Code](https://gitlab.com/ricciclope/tensor)
+* [Source Code](https://github.com/ZosoV/cnn_tensor_decomposition)

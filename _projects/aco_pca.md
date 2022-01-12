@@ -12,8 +12,6 @@ description: >
 links:
   - title:   Source
     url:     https://github.com/ZosoV/PathPlanningACO
-  - title:   Simulation
-    url:     https://youtu.be/c0dzv3qGqrs
 featured:    false
 ---
 
@@ -26,5 +24,4 @@ IN REVIEW.
 {:.note title="Research Type"}
 
 ## Resources
-* [Video](https://youtu.be/c0dzv3qGqrs)
 * [Source Code](https://github.com/ZosoV/PathPlanningACO)
