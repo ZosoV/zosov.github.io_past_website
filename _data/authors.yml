@@ -8,12 +8,12 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi, I'm Oscar Guarnizo, a young computer scientist from Ecuador. My research 
-    interest includes the theoretical and practical development of decision-making 
-    algorithms, mainly focusing on Reinforcement Learning. My research also combines 
-    simulations with machine learning methods such as Graph Neural Networks and 
-    Generative Adversarial Networks. I also collaborate in computer vision projects 
-    for detection and classification tasks.
+    Hi, I'm Oscar Guarnizo, a young computer scientist from Ecuador. My research expertise
+    relies on computer vision and deep learning. I have already worked on projects related 
+    to convolutional neural networks (CNN) for classification, segmentation, license plate 
+    recognition, and generative adversarial networks. However, I am currently turning towards 
+    Reinforcement Learning (RL) research, a mature technology with a solid contextualization 
+    and mathematical formulation.
 
   # This photo will be used in the about section
   picture:
