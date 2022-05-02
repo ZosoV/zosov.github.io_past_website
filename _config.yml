@@ -60,8 +60,8 @@ menu:
     url:               /resume/
   - title:             Highlights
     url:               /highlights/
-  # - title:             Documentation
-  #   url:               /docs/
+  - title:             Medium Blog
+    url:               https://oscar-guarnizo.medium.com/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
