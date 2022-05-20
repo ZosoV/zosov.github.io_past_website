@@ -14,6 +14,8 @@ links:
     url:     https://ieeexplore.ieee.org/document/9416639
   - title:   Source
     url:     https://github.com/ZosoV/cnn_tensor_decomposition
+  - title:   Medium Blog
+    url:     https://oscar-guarnizo.medium.com/review-covariance-tensor-for-convolutional-neural-networks-77c119f2a225
 featured:    false
 ---
 # Convolutional Neural Network Feature Extraction Using Covariance Tensor Decomposition (Open Access)
@@ -28,3 +30,4 @@ PUBLISHED
 
 * [Open Access Article](https://ieeexplore.ieee.org/document/9416639)
 * [Source Code](https://github.com/ZosoV/cnn_tensor_decomposition)
+* [Medium Blog](https://oscar-guarnizo.medium.com/review-covariance-tensor-for-convolutional-neural-networks-77c119f2a225)

@@ -31,7 +31,7 @@ description:           >
 tagline:               Hi there! I'm Oscar, a young computer scientist from Ecuador interested in AI/ML.
 
 # A list of keywords for your blog
-keywords:              ["Machine Learning", "Reinforcemen Learning", "Deep Learning"]
+keywords:              ["Machine Learning", "Reinforcement Learning", "Deep Learning"]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -52,13 +52,13 @@ menu:
   #   url:               /blog/
   - title:             About
     url:               /about/
-  - title:             Research
-    url:               /research/
+  - title:             Portfolio
+    url:               /portfolio/
   - title:             Publications
     url:               /publications/
-  - title:             Resume
-    url:               /resume/
-  - title:             Highlights
+  # - title:             Resume
+  #   url:               /resume/
+  - title:             Motivations
     url:               /highlights/
   - title:             Medium Blog
     url:               https://oscar-guarnizo.medium.com/
@@ -307,7 +307,7 @@ collections:
     output:            true
 
   projects:
-    permalink:         /research/:path/
+    permalink:         /portfolio/:path/
     output:            true
 
   highlights:

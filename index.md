@@ -110,11 +110,13 @@ td, th, tr, thead, tbody {
 A **portfolio** that grouped my recent research works about AI/ML.
 {:.note title="Summary"}
 <!--projects-->
-See [Research](research.md){:.heading.flip-title} for more
+See [Portfolio](portfolio.md){:.heading.flip-title} for more
 {:.read-more}
 
-# ✨ Highlights
-Some **highlights** about my current research interests and learning in AI/ML.
+
+
+# ✨ Motivations
+Some **motivations** about my current interests and learning in AI/ML.
 {:.note title="Summary"}
 
 
@@ -122,6 +124,6 @@ Some **highlights** about my current research interests and learning in AI/ML.
 |:---------------:|:---------------:|:---------------:|
 | Machine Learning | Mathematics | Game AI |
 
-See [Highlights](highlights.md){:.heading.flip-title} for more
+See [Motivations](highlights.md){:.heading.flip-title} for more
 {:.read-more}
 

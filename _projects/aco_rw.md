@@ -6,18 +6,19 @@ image:
   path:       /assets/img/projects/aco_rw.png
   srcset:
     1920w:   /assets/img/projects/aco_rw.png
-caption:     This work proposes a promising method to initialize pheromones in an Ant Colony Optiization (ACO) algorithm through random walks.
+caption:     This work proposes a promising method to initialize pheromones in an Ant Colony Optimization (ACO) algorithm through random walks and evaluate it through PCA.
 description: >
-  This work proposes a promising method to initialize pheromones in an Ant Colony Optimization (ACO) algorithm through random walks. Further, this research aims to lay the foundations for future research in the area, especially to find efficient ways to generate prior knowledge for ant colony algorithms.
+  This work proposes a random walk method to generate prior knowledge for an Ant Colony Optimization (ACO) algorithm. We assessed our work in a single agent path planning problem because it guarantees a minimal contextualization of a decision-making problem for tracking dilemmas such as state and action spaces and the trade-off between exploration and exploitation. Additionally, this work evaluates the algorithm through a Principal Component Analysis (PCA).
+
 links:
   - title:   Source
     url:     https://github.com/ZosoV/aco_random_walk
 featured:    false
 ---
 
-# Path Planing: How to Initiliaze Pheromones with Random Walks?
+# ACO Algorithm for Path Planning Using Random Walks and PCA Evaluation
 
-Random Walks, Ant Colony Optimization, Pheromones Initializers 
+Random Walks, Ant Colony Optimization, Pheromones Initializers, Principal Component Analysis, Path Planning
 {:.note title="Keywords"}
 
 IN PROGRESS
